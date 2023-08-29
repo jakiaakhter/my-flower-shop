@@ -1,0 +1,49 @@
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(230, 199, 204);
+}
+.first-section{
+    padding: 30px 30px 30px 150px;
+    justify-content: center;
+    margin-top: 270px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+    
+}
+.my-button{
+    font-weight: bold;
+    color: white;
+    margin-top:40px;
+    padding: 15px;
+    background-color:#E55473;
+    border: #E55473;
+    border-radius:5px;
+}
+.main-part{
+    margin-top: 100px;
+    text-align: center;
+}
+.img-part img{
+    height: 360px;
+    width:360px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top-left-radius: 160px;
+    border-top-right-radius: 160px;
+    display:flex ;
+    justify-content: space-around;
+    background-color: lightpink;
+    
+    
+}
+  .design {
+    display: flex;
+    justify-content: space-around;
+  }  
+
+
+
